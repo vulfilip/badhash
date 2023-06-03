@@ -11,3 +11,5 @@ And based on the code provided in ![Bad Algorithm](https://github.com/vulfilip/b
 If you successfully solved this little challenge, DM me on discord ( Vulfilip#6855 ) and I will make sure to put your name, or github link if you prefer so, in the below section.
 # Winners
 a Cursed Comrade: https://acursedcomrade.github.io/
+
+Be the second to beat it...
