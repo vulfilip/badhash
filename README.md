@@ -1,5 +1,5 @@
 # badhash
-An intentionally bad, absolutely awful, easily crackable, unsecure "hashing" algorithm.
+An intentionally bad, absolutely awful, crackable, unsecure "hashing" algorithm.
 # What is this?
 This is an algorithm which can't even be called "hashing" algorithm because of how bad it is. The purpose of this is finding the original password (the string inside the variable "original").
 
